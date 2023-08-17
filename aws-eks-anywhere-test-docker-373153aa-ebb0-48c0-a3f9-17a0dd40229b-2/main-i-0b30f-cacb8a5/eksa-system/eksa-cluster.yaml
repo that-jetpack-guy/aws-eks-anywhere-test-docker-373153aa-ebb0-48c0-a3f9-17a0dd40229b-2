@@ -29,7 +29,7 @@ spec:
   managementCluster:
     name: main-i-0b30f-cacb8a5
   workerNodeGroupConfigurations:
-  - count: 1
+  - count: 3
     name: md-0
 
 ---
